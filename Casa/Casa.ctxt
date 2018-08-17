@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Casa
+comment1.params=
+comment1.target=void\ dibujate()
+comment2.params=x
+comment2.target=void\ mueveteDerecha(int)
+comment3.params=x
+comment3.target=void\ mueveteIzquierda(int)
+comment4.params=y
+comment4.target=void\ mueveteArriba(int)
+comment5.params=y
+comment5.target=void\ mueveteAbajo(int)
+numComments=6
